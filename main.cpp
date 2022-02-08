@@ -52,85 +52,94 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: leg
+//  action 1: the leg kicks
+leg.kick();
+//  action 2: the leg bends
+leg.bend();
+//  action 3: the leg steps forward
+leg.stepForward();
 
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: bus
+//  action 1: the bus reverses
+bus.reverse();
+//  action 2: the bus drives forward
+bus.driveForward();
+//  action 3: the bus breaks
+bus.breaks();
 
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: cat
+//  action 1: the cat purrs
+cat.purr();
+//  action 2: the cat meows
+cat.meow();
+//  action 3: the cat jumps
+cat.jump();
 
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: dog 
+//  action 1: the dog chases the cat
+dog.chaseCat();
+//  action 2: the dog barks
+dog.bark();
+//  action 3: the dog lays down
+dog.rest();
 
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Washing Machine
+//  action 1: the washing machine locks its door
+washingMachine.lockDoor();
+//  action 2: the washing machine starts a wash cycle
+washingMachine.washCycle();
+//  action 3: the washing machine starts rinse cycle
+washingMachine.rinseCycle();
 
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Tree
+//  action 1: tree buds new leaf
+tree.budNewLeaf();
+//  action 2: tree gets taller
+tree.increaseHeight();
+//  action 3: tree absorbs water
+tree.absorbWater();
 
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: human
+//  action 1: the human walks forward
+human.walksForward();
+//  action 2: the human coughs
+human.cough();
+//  action 3: the human itches face
+human.itchFace();
 
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: alien
+//  action 1: the alien's eyes glow
+alien.eyesGlow();
+//  action 2: the alien levitates
+alien.levitate();
+//  action 3: the alien shoots a lazer
+alien.shootLazer();
 
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: plane
+//  action 1: the plane takes off the runway
+plane.takeOff();
+//  action 2: the plane does a loop
+plane.loop();
+//  action 3: the plane lands
+plane.land();
 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: shark
+//  action 1: the shark swims 
+shark.swim();
+//  action 2: the shark bites
+shark.bite();
+//  action 3: the shark gets faster in the water
+shark.increaseSpeed();
 
 
 #endif
